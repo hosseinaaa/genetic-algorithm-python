@@ -20,4 +20,4 @@ for generation in range(10):
 print("Best solution:", population[0])
 
 
-Initial commit - Genetic Algorithm in Python
+
